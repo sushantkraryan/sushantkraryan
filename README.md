@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Kumar Aryan 👋
 
-<!--
-**sushantkraryan/sushantkraryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Java Backend Developer
 
-Here are some ideas to get you started:
+I'm passionate about building scalable backend applications using Java and Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently preparing for Software Engineer and Java Backend Developer opportunities while continuously improving my backend development and problem-solving skills.
+
+---
+
+## 🚀 Currently Building
+
+- 🛒 E-Commerce Backend
+- 🏦 Banking Transaction Management System
+- 🔗 URL Shortener Service
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Java
+- SQL
+- JavaScript
+
+### Backend
+- Spring Boot
+- Spring Security
+- Hibernate
+- JPA
+- REST APIs
+
+### Database
+- MySQL
+- MongoDB
+
+### Tools
+- Git
+- Maven
+- Postman
+
+---
+
+## 📚 Currently Learning
+
+- Docker
+- Redis
+- Kafka
+- Microservices
+- AWS
+
+---
+
+## 📈 Coding
+
+- Solving Data Structures & Algorithms
+- Building production-style backend projects
+- Learning system design
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/sushantkraryan
+- GitHub: https://github.com/sushantkraryan
+- LeetCode: https://leetcode.com/u/sushantkraryan
