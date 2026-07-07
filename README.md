@@ -22,14 +22,14 @@ A real-time chat app built with the MERN stack and Socket.io. Supports multiple 
 
 `React` `Node.js` `Express` `Socket.io` `MongoDB` `JWT`
 
-**[🔗 Live Demo](#)** · **[📂 Repository](https://github.com/sushantkraryan/chatsphere-mern)**
+**[🔗 Live Demo](https://chatsphere-mern.vercel.app/)** · **[📂 Repository](https://github.com/sushantkraryan/chatsphere-mern)**
 
 ### 📋 [TaskFlow](https://github.com/sushantkraryan/taskflow-mern) — Task Management App
 A full-stack task management application with secure authentication, complete CRUD functionality, star/favorite tasks, and dynamic search & filtering by status, priority, and category — all wrapped in a responsive, modern dashboard UI.
 
 `React` `Node.js` `Express` `MongoDB` `JWT`
 
-**[🔗 Live Demo](#)** · **[📂 Repository](https://github.com/sushantkraryan/taskflow-mern)**
+**[🔗 Live Demo](https://taskflow-mern-sooty.vercel.app/)** · **[📂 Repository](https://github.com/sushantkraryan/taskflow-mern)**
 
 ---
 
@@ -88,17 +88,6 @@ A full-stack task management application with secure authentication, complete CR
 - 🧩 Solving Data Structures & Algorithms consistently
 - 🏗️ Building production-style full-stack and backend projects
 - 📐 Learning system design fundamentals
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sushantkraryan&show_icons=true&theme=default&hide_border=true" alt="Kumar Aryan's GitHub stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkraryan&hide_border=true" alt="Kumar Aryan's GitHub streak" width="48%" />
-
-</div>
 
 ---
 
