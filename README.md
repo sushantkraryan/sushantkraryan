@@ -17,6 +17,23 @@ I'm passionate about building scalable backend applications and full-stack produ
 
 ## 🚀 Featured Projects
 
+### 🛒 [ShopSphere](https://github.com/sushantkraryan/shopsphere-ecommerce) — E-Commerce Backend
+A backend-focused e-commerce platform built with Spring Boot, covering layered architecture, JWT-based authentication, BCrypt password hashing, role-based authorization, and centralized exception handling with a consistent API error format.
+
+`Java` `Spring Boot` `Spring Security` `Spring Data JPA` `MySQL` `JWT`
+
+**[📂 Repository](https://github.com/sushantkraryan/shopsphere-ecommerce)**
+
+### 🏦 Fintra — Digital Banking & Ledger System
+A banking backend focused on double-entry ledger design, concurrent transfer handling, and an immutable audit trail for financial transactions.
+
+`Java` `Spring Boot` `MySQL`
+
+### 🤝 Reyna — Multi-Tenant Support Platform
+A multi-tenant customer support platform with tenant-based data isolation, role-based access control, and real-time ticket updates via WebSockets.
+
+`Java` `Spring Boot` `WebSockets` `MySQL`
+
 ### 💬 [ChatSphere](https://github.com/sushantkraryan/chatsphere-mern) — Real-Time Chat Application
 A real-time chat app built with the MERN stack and Socket.io. Supports multiple chat rooms, live online/offline status, typing indicators, and JWT-secured WebSocket connections, with full chat history persisted in MongoDB.
 
@@ -30,14 +47,6 @@ A full-stack task management application with secure authentication, complete CR
 `React` `Node.js` `Express` `MongoDB` `JWT`
 
 **[🔗 Live Demo](https://taskflow-mern-sooty.vercel.app/)** · **[📂 Repository](https://github.com/sushantkraryan/taskflow-mern)**
-
----
-
-## 🛠 Currently Building
-
-- 🛒 **E-Commerce Backend** — Spring Boot + Spring Security + MySQL
-- 🏦 **Banking Transaction Management System**
-- 🔗 **URL Shortener Service**
 
 ---
 
